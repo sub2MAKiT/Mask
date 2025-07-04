@@ -1,0 +1,1 @@
+gcc ./main/util/debug.c ./main/mask.c -I "./main" -D "MKT_DEBUG" -o ./build/main
